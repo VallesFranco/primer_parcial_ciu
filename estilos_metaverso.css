@@ -1,0 +1,110 @@
+body {
+    background-color: rgb(35, 35, 50);
+    color: rgb(255, 255, 255);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    background: rgb(238,38,119);
+    background: linear-gradient(90deg, rgba(238,38,119,1) 0%, rgba(73,65,109,1) 50%, rgba(137,128,245,1) 100%);
+    color: rgb(255, 255, 255);
+    font-size: 72px;
+    margin-bottom: 0px;
+    text-align: center;
+}
+
+h2 {
+    background: rgb(238,38,119);
+    background: linear-gradient(90deg, rgba(238,38,119,1) 0%, rgba(73,65,109,1) 50%, rgba(137,128,245,1) 100%);
+    color: rgb(255, 255, 255);
+    font-size: 36px;
+    text-align: center;
+}
+
+h3 {
+    
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+h4 {
+    
+    font-weight: normal;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+h5 {
+    color: rgb(255, 255, 255);
+    background-color: rgb(73,65,109);
+    margin-left: -12px;
+    margin-right: -12px;
+}
+
+p {
+    text-align: justify;
+    line-height: 133%;
+    font-size: 18px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+.form-group {
+    background-color: rgb(73,65,109);
+    color: rgb(255, 255, 255);
+    padding: 6px;
+}
+
+ul {
+    text-align: justify;
+    line-height: 133%;
+    list-style-position: inside;
+    font-size: 18px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+img {
+    height: auto;
+    width: auto;
+    max-width: 100%;
+}
+
+nav, footer {
+    background: rgb(238,38,119);
+    background: linear-gradient(90deg, rgba(238,38,119,1) 0%, rgba(73,65,109,1) 50%, rgba(137,128,245,1) 100%);
+}
+
+.modoClaro {
+    background-color: rgb(255, 255, 255);
+    color: rgb(35, 35, 50);
+}
+
+.parrafoAjustado { margin-top: 72px; }
+
+#evento {
+    background-color: rgb(255, 255, 255);
+    color: rgb(35, 35, 50);
+    margin-top: 10px;
+}
+
+#subrayado {
+    color: rgb(245,183,0);
+    font-weight: bold;
+}
+
+#cta {
+    background-color: rgb(238,38,119);
+    display: inline-block;
+    font-weight: bold;
+    padding: 10px;
+    transition: color;
+    -webkit-transition: color;
+}
+
+#cta:hover { background-color: rgb(137,128,245); }

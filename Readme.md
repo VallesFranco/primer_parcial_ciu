@@ -1,0 +1,2 @@
+Landing page construida en base a la referencia de la consigna, con un diseño más simplificado.
+El enfoque es conseguir una landing page lo más similar posible a la referencia, con todas las funcionalidades solicitadas en la consigna.
